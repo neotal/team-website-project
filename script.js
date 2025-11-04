@@ -3,4 +3,3 @@ function greet() {
 }
 
 console.log("Website loaded!");
-console.log("let's cancel this");
