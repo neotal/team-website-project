@@ -3,3 +3,4 @@ function greet() {
 }
 
 console.log("Website loaded!");
+console.log("Student C is here!");
