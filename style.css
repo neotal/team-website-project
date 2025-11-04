@@ -7,10 +7,13 @@ body {
 
 h1 {
     text-align: center;
+    margin-bottom: 40px;
+    text-transform: uppercase;
 }
 
 footer {
     text-align: center;
     margin-top: 50px;
-    padding: 20px;
+    padding: 10px;
+
 }
